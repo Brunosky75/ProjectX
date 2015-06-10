@@ -36,4 +36,14 @@ hr {
 
 img {
 	border-radius: 4px;
+	max-width: 100%;
+}
+a {
+	text-decoration: none;
+	color: #747704;
+	padding-bottom: 10px;
+}
+picture {
+	width: 100%;
+	margin: 0 auto;
 }
